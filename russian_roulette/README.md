@@ -17,7 +17,8 @@
 ### 运行方式
 ```bash
 python russian_roulette.py
-
+### 运行示例
+![alt text](image.png)
 **作者**：兴兴  
 **创作时间**：2026年2月10日
 **最后更新**：2026年2月10日
