@@ -2,6 +2,8 @@
 # 高中 Python 小玩具合集
 
 这是我高三时候心血来潮写的各种小玩意儿，纯练手、随便玩的代码。
+### 运行示例
+![alt text](image.png)
 
 ## russian_roulette.py
 
@@ -14,11 +16,11 @@
 
 代码写得很原始，就是图个乐子，变量名拼音、没异常处理、while True 裸奔都正常（狗头）
 
-### 运行方式
-```bash
-python russian_roulette.py
-### 运行示例
-![alt text](image.png)
 **作者**：兴兴  
 **创作时间**：2026年2月10日
 **最后更新**：2026年2月10日
+
+### 运行方式
+```bash
+python russian_roulette.py
+
